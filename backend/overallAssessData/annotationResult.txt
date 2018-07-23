@@ -1,0 +1,7 @@
+overallAssessData/sentences/employee1.txt
+overallAssessData/sentences/employee2.txt
+overallAssessData/sentences/employee3.txt
+overallAssessData/sentences/employee4.txt
+overallAssessData/sentences/employee5.txt
+overallAssessData/sentences/employee6.txt
+overallAssessData/sentences/employee7.txt
